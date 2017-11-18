@@ -1,6 +1,6 @@
 # auth-bootstrap
 
-## Node, Express, PostgreSQL, & Passport Setup
+## Node, Express, & PostgreSQL
 
 ### To verify that you have the NodeJS, NPM and PostgreSQL installed on your PC, type the following commands on your command-line one after the other:
 
